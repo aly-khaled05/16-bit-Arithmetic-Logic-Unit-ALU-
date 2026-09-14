@@ -2,12 +2,6 @@
 
 A modular **16-bit ALU** written in Verilog, split into independent Arithmetic, Logic, and Shift/Rotate blocks combined through parameterized 3-to-1 multiplexers. Verified with a self-checking testbench (`ALU_TESTBENCH.V`).
 
-## Authors
-
-| Student Name | Student Code |
-|---|---|
-| Aly Khaled Aly | 91240475 |
-| Ahmed Amir Elsayed Hamdy | 91240066 |
 
 ## Files
 
